@@ -25,8 +25,8 @@ host EDM festivals and take magic ecstasy. Orks play death metal to summon
 demons in shady clubs in the 'hood.
 I'm drawing inspiration from games like [Shadowrun](https://www.catalystgamelabs.com/brands/shadowrun) and Final Fantasies 3 & 7,
 films like [Blade Runner](https://www.netflix.com/title/70082907), [Escape from New York](https://www.primevideo.com/detail/Escape-From-New-York/0HYN16OSW4X0NOHMJOVFFCMPPM) and [The Terminator](https://www.max.com/movies/terminator/e013fa8d-9a19-43fb-bfe9-f5ec05c93f86), and books like [Snow Crash](https://www.goodreads.com/book/show/61240297-snow-crash) and [Neuromancer](https://www.goodreads.com/book/show/6088007-neuromancer), and the [Judge Dredd](https://en.wikipedia.org/wiki/Judge_Dredd) comics.
-It's like if the Forgotten Realms were advanced to the 1980s. But it's
-still D&D.
+It's like if the Forgotten Realms were advanced to the 1980s. The setting is 
+cyberpunk, but it's still D&D.
 
 ## Makin' dudes and babes.
 
