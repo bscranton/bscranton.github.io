@@ -20,11 +20,11 @@ us it's a world of opportunity isn't it?
 
 We're gonna play D&D, but this isn't exactly some grubby faux-medieval
 setting. There are still lords, ladies, dragons and magic. But there are
-also motorcycles, machineguns, leather jackets and pink mohawks. Elves 
+also motorcycles, machineguns, [black trenchcoats, pink mohawks and mirrorshades](https://www.reddit.com/r/Shadowrun/comments/wxfm0k/pink_mohawk_black_trenchcoat_mirror_shades/). Elves 
 host EDM festivals and take magic ecstasy. Orks play death metal to summon 
 demons in shady clubs in the 'hood.
 I'm drawing inspiration from games like [Shadowrun](https://www.catalystgamelabs.com/brands/shadowrun) and Final Fantasies 3 & 7,
-shows like [Firefly](https://www.hulu.com/series/firefly-044bbd6e-4ef5-4723-93fe-a384d785b45d) and [Bright](https://www.netflix.com/title/80119234), and books like [Snow Crash](https://www.goodreads.com/book/show/61240297-snow-crash) and [Neuromancer](https://www.goodreads.com/book/show/6088007-neuromancer).
+films like [Blade Runner](https://www.netflix.com/title/70082907), [Escape from New York](https://www.primevideo.com/detail/Escape-From-New-York/0HYN16OSW4X0NOHMJOVFFCMPPM) and [The Terminator](https://www.max.com/movies/terminator/e013fa8d-9a19-43fb-bfe9-f5ec05c93f86), and books like [Snow Crash](https://www.goodreads.com/book/show/61240297-snow-crash) and [Neuromancer](https://www.goodreads.com/book/show/6088007-neuromancer), and the [Judge Dredd](https://en.wikipedia.org/wiki/Judge_Dredd) comics.
 It's like if the Forgotten Realms were advanced to the 1980s. But it's
 still D&D.
 
@@ -96,7 +96,7 @@ Cloud, Barrett and Red XIII all occupied the same universe. It's a big world,
 play what you want. Just don't jaywalk on Market Street if you don't want
 to get run over by a bus.
 
-And you might be a little out of place in full plate armor. The locals will
+You might be a little out of place in full plate armor. The locals will
 assume you're headed to a renfaire.
 
 #### Simple Ranged Weapons
