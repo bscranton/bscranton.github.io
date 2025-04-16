@@ -1,25 +1,3 @@
-<!doctype html>
-<html>
-
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="github-markdown.css">
-<style>
-	.markdown-body {
-		box-sizing: border-box;
-		min-width: 200px;
-		max-width: 980px;
-		margin: 0 auto;
-		padding: 45px;
-	}
-
-	@media (max-width: 767px) {
-		.markdown-body {
-			padding: 15px;
-		}
-	}
-</style>
-<div class="markdown-body">
-
 # Let's play a game.
 
 ## Where we're at.
@@ -160,6 +138,3 @@ justify it to me though. Why do you get to have a Ferarri or a luxury
 condo in an upscale [arcology](https://en.wikipedia.org/wiki/Arcology)?
 Maybe your background or back story justifies it. That's fine. We can 
 negotiate it.
-
-</div>
-</html>
