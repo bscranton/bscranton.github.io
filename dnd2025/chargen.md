@@ -23,7 +23,7 @@ setting. There are still lords, ladies, dragons and magic. But there are
 also motorcycles, machineguns, leather jackets and pink mohawks. Elves 
 host EDM festivals and take magic ecstasy. Orks play death metal to summon 
 demons in shady clubs in the 'hood.
-I'm drawing inspiration from games like [Shadowrun](https://www.catalystgamelabs.com/brands/shadowrun), Final Fantasy 3 & 7,
+I'm drawing inspiration from games like [Shadowrun](https://www.catalystgamelabs.com/brands/shadowrun) and Final Fantasies 3 & 7,
 shows like [Firefly](https://www.hulu.com/series/firefly-044bbd6e-4ef5-4723-93fe-a384d785b45d) and [Bright](https://www.netflix.com/title/80119234), and books like [Snow Crash](https://www.goodreads.com/book/show/61240297-snow-crash) and [Neuromancer](https://www.goodreads.com/book/show/6088007-neuromancer).
 It's like if the Forgotten Realms were advanced to the 1980s. But it's
 still D&D.
@@ -41,7 +41,7 @@ Don't keep going just because your first rolls didn't land a bunch of
 Any race in the rulebook is fair game. You get whatever the race says you 
 do *except* for stat increases. Ignore any changes to stats from your race,
 positive or negative. Instead, add +2 to any one stat and +1 to any other.
-You can't use both modifiers on the same stat. No +3. You'll be fine.
+You can't use both modifiers on the same stat. No +3 for you. You'll be fine.
 
 ### Pick a background.
 
@@ -55,10 +55,10 @@ councilperson. Your entertainer might be an actual rockstar.
 Anything in the rulebook goes. Consider how whatever class you pick might
 be affected by 1980's tech. Your wizard can probably pack an uzi. Your
 fighter might still carry a big-ass sword. Or maybe a katana. Or
-maybe a monofilament blade. Or a bazooka. Whatever. Your ranger might
-have drones instead of actual animals. Good luck figuring out how the hell
-a druid fits into a city run by an oppressive empire and a bunch of 
-megacorps.
+maybe a monofilament blade. But maybe her backup is a bazooka. Whatever.
+Your ranger might have drones instead of actual animals. Good luck figuring
+out how the hell a druid fits into a city run by an oppressive empire and a
+bunch of megacorps. (Let's be real, you're an ecoterrorist.)
 
 ### Buy gear and shit.
 
