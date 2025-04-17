@@ -1,12 +1,13 @@
 # Let's play a game.
 
-## Where we're at.
+## The world we're living in.
 
 'Sup chummer. Welcome to Midgaard. A long time ago this place was a humble 
 city astride a river where adventurers gathered. We hosted a school even. 
 The school is still here. These days it's called Midgaard University 
 Diversified School, or MUD School. It's a modern place. Lots of steel and 
-glass. The University occupies about a block of downtown. Downtown covers 
+glass. The University occupies about a block of downtown. The land it sits
+on is worth so much money even a dragon might be embarrassed to hoard it. Downtown covers 
 about 25 square miles. Directly across Market Street from the University 
 campus is the Mota Arcology. The Arcology covers about 4 city blocks. the
 first 10 stories of each block arch toward the others until they meet above
@@ -59,6 +60,19 @@ maybe a monofilament blade. But maybe her backup is a bazooka. Whatever.
 Your ranger might have drones instead of actual animals. Good luck figuring
 out how the hell a druid fits into a city run by an oppressive empire and a
 bunch of megacorps. (Let's be real, you're an ecoterrorist.)
+
+#### A note on tool proficiencies.
+
+Backgrounds and classes both tend to hand out tool proficiencies and
+traditionally players have kind of ignored those unless they want to
+pick locks or something. There tend to be less useful tools in the
+usual quasi-medieval setting. By constrast a retro-future game has a
+lot of potential tools. I'm not even going to try to make a comprehensive
+list but if you want a proficiency bonus for stunt driving your Harley
+or using your Gameboy as a hacking tool you better come up with some
+tool proficiencies like motorcycles and computers on your own. You are
+free to trade out class or background tool proficiencies where it makes
+sense.
 
 ### Buy gear and shit.
 
