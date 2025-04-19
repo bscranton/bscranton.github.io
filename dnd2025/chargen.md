@@ -106,7 +106,7 @@ a gameboy.
 The following weapons are *examples*. If there's something else you want
 let's talk about it and make it happen. Don't be shy about sticking to more
 traditional fantasy archetypes either, if that's what makes you happy.
-Cloud, Barrett and Red XIII all occupied the same universe. It's a big world,
+Cloud, Barret and Red XIII all occupied the same universe. It's a big world,
 play what you want. Just don't jaywalk on Market Street if you don't want
 to get run over by a bus.
 
